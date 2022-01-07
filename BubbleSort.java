@@ -5,7 +5,7 @@ public class BubbleSort {
 
         System.out.println("Before Sorting Array : ");
 
-        int array[] = {313, 12, 58, 458, 325, 16, 54, 45, 65};
+        int array[] = {555, 100, 250, 58, 35, 92, 61, 45, 65};
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + "  ");
         }
